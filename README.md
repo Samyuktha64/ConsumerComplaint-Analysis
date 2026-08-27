@@ -33,6 +33,10 @@ Tooltips,
 Bar/Stacked,
 Matrix/heatmap
 
+Data Set
+<img width="1732" height="792" alt="Screenshot 2026-08-27 124528" src="https://github.com/user-attachments/assets/aebb54e8-e1e2-419b-9509-68e44c4481f8" />
+
+
 
 
 
