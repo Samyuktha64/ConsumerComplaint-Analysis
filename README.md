@@ -1,8 +1,8 @@
-# CustomerComplaints-Analysis
+# Consumer Complaints-Analysis
 Consumer Complaint Analysis and Response Performance Dashboard using Advanced Excel and Power BI
 
 INRODUCTION
-Customer complaints Response Performance Dashboard is an end-to-end data analytics project that analyzes consumer complaint records to identify complaint trends, product and issue
+Consumer complaints Response Performance Dashboard is an end-to-end data analytics project that analyzes consumer complaint records to identify complaint trends, product and issue
 patterns, geographic distribution, submission channels, and company response performance. The project uses Advanced Excel for data cleaning, exploratory analysis, PivotTables, KPI calculations
 followed by Power BI for interactive dashboards, data modeling, DAX measures, and business insights.
 
@@ -49,8 +49,34 @@ F. Response Performance
 
 Timely vs Delayed
 
+**CONSUMER COMPLAINT ANALYSIS – EXCEL**
+
+1. Complaint Status Analysis
+2. Complaints by State
+3. Complaints by Product
+4. Complaint Trend Analysis
+5. State Wise Timely Response Analysis
+6. Product and subproduct complaints Analysis
+7. Public Response and Complaints Analysis
+
+   <img width="1686" height="666" alt="Screenshot 2026-08-27 160756" src="https://github.com/user-attachments/assets/da8034d3-8473-43b7-adb3-637cbcf6ab7c" />
+   <img width="780" height="668" alt="Screenshot 2026-08-27 160832" src="https://github.com/user-attachments/assets/3621b434-1782-4927-aced-ee4409f1b6c4" />
 
 
+
+**POWER BI DASHBOARD**
+<img width="1419" height="812" alt="Screenshot 2026-08-27 160334" src="https://github.com/user-attachments/assets/22017f80-23e0-448e-ace6-0f299cbf6550" />
+
+<img width="1407" height="785" alt="Screenshot 2026-08-27 160356" src="https://github.com/user-attachments/assets/92d37c7b-97c5-42f5-bdda-296ff3555936" />
+
+
+**Conclusion**
+
+The Consumer Complaint Analysis project successfully analyzed customer complaint data using Microsoft Excel and Power BI. Excel Pivot Tables, filtering, conditional formatting, and analysis were used to examine complaint status, product categories, state-wise distribution, timely responses, and complaint trends. Power BI was then used to create interactive dashboards for visualizing complaints by product, issue, month, submission method, state, timely response, and company response.
+
+The analysis identified 62,516 complaints in the dataset. Checking or savings accounts recorded the highest number of complaints, followed by credit card or prepaid card and credit reporting-related products. California had the highest state-wise complaint count among the states shown in the analysis. The analysis also indicated an increase in complaint volume over the years examined and highlighted differences in complaint responses and issues.
+
+Overall, the project demonstrates how Excel and Power BI can be used together to transform raw customer complaint data into meaningful insights through data analysis and visualization.
 
 
 
