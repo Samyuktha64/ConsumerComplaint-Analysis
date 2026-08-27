@@ -9,28 +9,28 @@ followed by Power BI for interactive dashboards, data modeling, DAX measures, an
 Tools Used
 
 **Microsoft Excel**                              
-Advanced formulas
-Excel Tables
-PivotTables
-Conditional Formatting
-Charts
+Advanced formulas,
+Excel Tables,
+PivotTables,
+Conditional Formatting,
+Charts,
 KPI calculations
 
 **Power Query**
-Data cleaning
-Data transformation
-Missing-value handling
-Duplicate checking
-Data-type conversion
+Data cleaning,
+Data transformation,
+Missing-value handling,
+Duplicate checking,
+Data-type conversion,
 Custom columns
 
 **Power BI**
-Data visualization
-Interactive dashboards
-Slicers
-Drill-through
-Tooltips
-Bar/Stacked
+Data visualization,
+Interactive dashboards,
+Slicers,
+Drill-through,
+Tooltips,
+Bar/Stacked,
 Matrix/heatmap
 
 
